@@ -12,8 +12,6 @@ blood everywhere...
 
 do not resell pls (i worked really hard on this)
 
-Thanks in advance, I hope you enjoy the module.
-
 Documentation: https://github.com/sinetric/Blood-System-Module-OPEN-SOURCE-/wiki
 
 ### Patch notes & Update logs
@@ -24,3 +22,9 @@ Documentation: https://github.com/sinetric/Blood-System-Module-OPEN-SOURCE-/wiki
 ### Bug-Reports & Suggestions
 
 Suggest features or report bugs by directly messaging my main account (Mememoxzine#9290 on Discord), I appreciate any feedbacks.
+
+### Conclusion
+
+Thanks in advance, I hope you enjoy the module.
+
+(soryr for bad ingles it not my first language)
