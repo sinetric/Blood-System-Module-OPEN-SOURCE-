@@ -14,6 +14,8 @@ do not resell pls (i worked really hard on this)
 
 Documentation: https://github.com/sinetric/Blood-System-Module-OPEN-SOURCE-/wiki
 
+Test place: https://www.roblox.com/games/6992430398/Blood-System-Demonstration-OPEN-SOURCE (UNCOPYLOCKED)
+
 ### Patch notes & Update logs
 
 **v.1.0**
