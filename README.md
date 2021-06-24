@@ -1,4 +1,4 @@
-# Blood-Gore-System-Module-OPEN-SOURCE-
+# Blood-System-Module-OPEN-SOURCE-
 blood everywhere...
 
 Developed by: Mememoxzine (Contacts: Mememoxzine#9290, sinetric#5848)
