@@ -8,3 +8,7 @@ You don't have to credit me, but I'd appreciate it if you give me one. Project s
 do not resell pls (i worked really hard on this)
 
 Thanks in advance, I hope you enjoy the module.
+
+### Bug-Reports & Suggestions
+
+Suggest features or report bugs by directly messaging my main account (Mememoxzine#9290 on Discord), I appreciate any feedbacks.
