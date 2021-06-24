@@ -23,7 +23,7 @@ Test place: https://www.roblox.com/games/6992430398/Blood-System-Demonstration-O
 
 ### Bug-Reports & Suggestions
 
-Suggest features or report bugs by directly messaging my main account (Mememoxzine#9290 on Discord), I appreciate any feedbacks.
+Suggest features or report bugs by directly messaging my main account (Mememoxzine#9290 on Discord) or you could create them here: https://github.com/sinetric/Blood-System-Module-OPEN-SOURCE-/issues, I appreciate any feedbacks.
 
 ### Conclusion
 
