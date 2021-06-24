@@ -19,7 +19,7 @@ Test place: https://www.roblox.com/games/6992430398/Blood-System-Demonstration-O
 ### Patch notes & Update logs
 
 **v.1.0**
-* Release Blood System
+* Released Blood System
 
 ### Bug-Reports & Suggestions
 
