@@ -18,7 +18,7 @@ Test place: https://www.roblox.com/games/6992430398/Blood-System-Demonstration-O
 
 ### Patch notes & Update logs
 
-**v.1.0**
+**v.1.0** (https://github.com/sinetric/Blood-System-Module-OPEN-SOURCE-/releases/tag/version1)
 * Released Blood System
 
 ### Bug-Reports & Suggestions
