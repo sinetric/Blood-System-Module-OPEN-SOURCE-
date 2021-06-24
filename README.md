@@ -9,6 +9,6 @@ I've tried my best to abide to the Roblox Terms Of Service, if this module is so
 Please do not disable the "blood turn on/off" feature (unless you're making a new one), I've made this feature simply to abide the rules and ToS of Roblox.
 If your game has console (Xbox) support, then I wouldn't recommend you to use this module (Roblox prohibits the usage of blood effects on games that support console players)
 
-https://gyazo.com/d72b2db6613a80a77e066c29244d3f39 -- Evidence
+![image](https://user-images.githubusercontent.com/79014070/123223553-2ce4bd00-d4fb-11eb-9e2e-fa68638b5127.png)
 
 Thanks in advance, I hope you enjoy the module.
