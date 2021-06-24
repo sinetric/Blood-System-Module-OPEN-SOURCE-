@@ -14,7 +14,7 @@ do not resell pls (i worked really hard on this)
 
 Thanks in advance, I hope you enjoy the module.
 
-Documentation: https://github.com/sinetric/Blood-System-Module-OPEN-SOURCE-.wiki.git
+Documentation: https://github.com/sinetric/Blood-System-Module-OPEN-SOURCE-/wiki
 
 ### Patch notes & Update logs
 
